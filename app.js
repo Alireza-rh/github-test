@@ -12,3 +12,4 @@ let d = 2
 
 let navbar = true
 let navbar2 = true
+let navbar3 = true
