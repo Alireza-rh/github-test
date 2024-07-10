@@ -17,6 +17,10 @@
 </div>
 
 <h3>Social</h3>
-    <img src="./images/icons8-instagram-96.png" width="40px"  alt="instagram">
+    <a href="https://www.instagram.com/alireza3._.3">
+        <img src="./images/icons8-instagram-96.png" width="40px" alt="instagram">
+    </a>
 
-
+<a href="https://t.me/Allii_4">
+        <img src="./images/icons8-telegram-96.png" width="40px" alt="">
+    </a>
